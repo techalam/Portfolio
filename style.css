@@ -498,7 +498,7 @@ header::after {
     .project img, .aboutProject {
         width: 100%;
     }
-    nav ul {
+    header {
         display: none;
     }
     #navicon {
